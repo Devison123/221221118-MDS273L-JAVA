@@ -200,7 +200,7 @@ public class lab7 {
 
                                               //OUTPUT
 
-                        //   TOTAL    	max      	    mean     	median   	mode     	min      	
+                         //    TOTAL    	   max      	 mean     	median   	mode     	min      	
                         //   SepalLengthCm	7.9      	5.8433356	5.8      	5.0      	4.3      	
                         //   SepalWidthCm 	4.4      	3.0540001	3.0      	3.0      	2.0      	
                         //   PetalLengthCm	6.9      	3.7586665	4.4      	1.5      	1.0      	
@@ -210,7 +210,7 @@ public class lab7 {
                         //   SepalLengthCm	5.8      	5.0060005	5.0      	5.0      	4.3      	
                         //   SepalWidthCm 	4.4      	3.418    	3.4      	3.4      	2.3      	
                         //   PetalLengthCm	1.9      	1.4639996	1.5      	1.5      	1.0      	
-                        //   PetalWidthCm 	0.6      	0.243999     0.2      	 0.2        	0.1      	
+                        //   PetalWidthCm 	0.6      	0.243999    0.2      	0.2        	0.1      	
                            
                         //    VERSICOLOUR 	max      	mean     	median   	mode     	min      	
                         //   SepalLengthCm	7.0      	5.9360003	5.95     	5.5      	4.9      	
